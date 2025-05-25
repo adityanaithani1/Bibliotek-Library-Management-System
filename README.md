@@ -1,23 +1,77 @@
-# Library-Management-System-Project
+# 📚 Library Management System Project
 
-A library management system is software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates.
+A *Library Management System* is a software application designed to manage the day-to-day operations of a library. This project helps librarians efficiently maintain a database of books, track borrowed books, and manage due dates for returns.
 
+## 🚀 Features
 
-![loading](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/31d70921-d5ab-4fd7-907f-61e68e28da49)
+- Add new books to the system
+- Register new members
+- Borrow and return books
+- Track due dates
+- View available and issued books
+- Search books by title, author, or ID
+- Maintain history of book issues and returns
 
-![login](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/7668e6d6-eed4-43e4-8dfa-a54c0b37d359)
+## 🛠 Tech Stack
 
-![home](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/cdc516a9-17fb-4da6-bc1f-27b704360530)
+- *Frontend:* Java Swing / JavaFX (if applicable)
+- *Backend:* Java
+- *Database:* MySQL / SQLite
 
-![Add Book](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/819581a7-a91e-4650-a50c-04a6eaf7d513)
+## 📂 Project Structure
+Library-Management-System/
+│
+├── src/ # Source code
+│ ├── Main.java # Main entry point
+│ ├── Book.java # Book model
+│ ├── Member.java # Member model
+│ ├── BookDAO.java # Data Access for books
+│ ├── MemberDAO.java # Data Access for members
+│ └── UI/ # UI classes (Login, Dashboard, etc.)
+│
+├── lib/ # External libraries (if any)
+├── README.md # Project documentation
+└── database.sql # SQL script to set up database
 
-![Student registration](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/b6b2d0e1-0187-4f50-a662-4c735ba50d33)
+## 🧑‍💻 How to Run
 
-![issue](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/d7f240ee-e93f-4a04-b3b8-27dfbb9cf814)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Library-Management-System.git
+   cd Library-Management-System
+2. Set up the database using database.sql.
 
-![return](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/8aef7cf9-15e2-4e6d-aa62-b854e8a43fd7)
+3. Open the project in your IDE (e.g., IntelliJ, Eclipse, VS Code).
 
-![logout](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/1b224c1e-2ca2-448e-8f87-220a8662245a)
+4. Run the Main.java file.
 
+📝 Requirements
+Java 8 or higher
 
-![Screenshot_20241107-123605_1](https://github.com/user-attachments/assets/c2bc6530-5f94-4aff-9299-d8e705e0e146)
+MySQL or SQLite
+
+IDE (optional but recommended)
+
+📸 Screenshots
+Add screenshots of your UI here if available.
+
+📌 Future Enhancements
+Add user authentication
+
+Fine calculation for overdue returns
+
+Export reports (PDF/Excel)
+
+Web-based version using HTML/CSS/JavaScript
+
+🤝 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+📄 License
+This project is open-source and available under the MIT License.
+
+Made with ❤ by [Aditya Naithani]
+
+---
+
+Let me know if you want this tailored to your exact tech stack (e.g. Java GUI only, no database yet, etc.), or if you'd like me to include example screenshots or badges.

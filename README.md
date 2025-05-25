@@ -37,8 +37,8 @@ Library-Management-System/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Library-Management-System.git
-   cd Library-Management-System
+   git clone https://github.com/adityanaithani1/Bibliotek-Library-Management-System.git
+   cd Bibliotek-Library-Management-System
 2. Set up the database using database.sql.
 
 3. Open the project in your IDE (e.g., IntelliJ, Eclipse, VS Code).

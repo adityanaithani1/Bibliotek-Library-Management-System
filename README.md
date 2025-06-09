@@ -47,3 +47,20 @@
 
 ## 🏗️ Project Structure
 
+Bibliotek/
+│
+├── src/
+│ ├── Main.java
+│ ├── Login.java
+│ ├── AdminDashboard.java
+│ ├── StudentDashboard.java
+│ ├── BookManager.java
+│ ├── IssueReturn.java
+│ ├── FineCalculator.java
+│ └── DatabaseUtil.java
+│
+├── resources/
+│ └── icons, assets, etc.
+├── lib/
+│ └── mysql-connector.jar (for JDBC)
+└── README.md

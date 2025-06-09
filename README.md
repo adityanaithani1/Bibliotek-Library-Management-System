@@ -46,21 +46,52 @@
 ---
 
 ## 🏗️ Project Structure
+  ![project structure](https://github.com/user-attachments/assets/943625a6-cd6a-4fcd-9cd7-c61c10bc38de)
 
-Bibliotek/
-│
-├── src/
-│ ├── Main.java
-│ ├── Login.java
-│ ├── AdminDashboard.java
-│ ├── StudentDashboard.java
-│ ├── BookManager.java
-│ ├── IssueReturn.java
-│ ├── FineCalculator.java
-│ └── DatabaseUtil.java
-│
-├── resources/
-│ └── icons, assets, etc.
-├── lib/
-│ └── mysql-connector.jar (for JDBC)
-└── README.md
+---
+
+## 🛠️ How to Run the Project
+
+1. **Clone the Repository**  
+git clone https://github.com/adityanaithani1/Bibliotek-Library-Management-System.git
+
+2. **Open in IDE (Eclipse/IntelliJ)**  
+- Import as a Java project.
+- Add JDBC library to classpath (`mysql-connector.jar` if using MySQL).
+
+3. **Set up the Database**  
+- Use the provided SQL script to create tables and initial data.
+- Update DB credentials in `DatabaseUtil.java`.
+
+4. **Run `Main.java`**  
+- Launch the application and use default credentials to login.
+
+---
+
+## 🧪 Default Credentials
+
+| Role   | Username | Password |
+|--------|----------|----------|
+| Admin  | admin    | admin123 |
+| Student| student1 | pass123  |
+
+> *(You can modify these in the database)*
+
+---
+
+## 📃 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+🤝 Contribution Guidelines
+Contributions are welcome! 🚀 To contribute:
+
+Fork this repository.
+Create a feature branch.
+Commit your changes.
+Open a Pull Request with a brief description.
+You can also open issues for bugs or enhancement ideas.
+
+

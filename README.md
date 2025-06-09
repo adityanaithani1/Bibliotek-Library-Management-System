@@ -68,6 +68,14 @@ git clone https://github.com/adityanaithani1/Bibliotek-Library-Management-System
 
 ---
 
+## 🧭 System Flowchart
+
+The following diagram illustrates the overall flow and main functionalities of the Bibliotek system:
+
+![System Flowchart](https://github.com/user-attachments/assets/0b1b627f-0598-4283-9f25-b6e4946172d5)
+
+---
+
 ## 🧪 Default Credentials
 
 | Role   | Username | Password |

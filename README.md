@@ -93,6 +93,7 @@ Contributions are welcome! 🚀 To contribute:
 - Create a feature branch.
 - Commit your changes.
 - Open a Pull Request with a brief description.<br>
+
 You can also open issues for bugs or enhancement ideas.
 
 

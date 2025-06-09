@@ -88,10 +88,11 @@ This project is open-source and available under the [MIT License](LICENSE).
 🤝 Contribution Guidelines
 Contributions are welcome! 🚀 To contribute:
 
-Fork this repository.
-Create a feature branch.
-Commit your changes.
-Open a Pull Request with a brief description.
+- Fork this repository.
+- Create a feature branch.
+- Commit your changes.
+- Open a Pull Request with a brief description.
+  <br>
 You can also open issues for bugs or enhancement ideas.
 
 

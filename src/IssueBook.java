@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Sudhir Kushwaha
+ * @author Aditya Naithani
  */
 public class IssueBook extends javax.swing.JFrame {
         PreparedStatement pst;

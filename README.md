@@ -87,6 +87,20 @@ The following diagram illustrates the overall flow and main functionalities of t
 
 ---
 
+## 👨‍💻 Contributors
+
+Thanks to these amazing people for their contributions:
+
+| Name             | GitHub Profile                                                         | Role                    |
+|------------------|------------------------------------------------------------------------|-------------------------|
+| Aditya Naithani  | [@adityanaithani1](https://github.com/adityanaithani1)                 | Project Lead, Developer |
+| Aviral Upadhyay  | [@AviralUpadhyay](https://github.com/AviralUpadhyay)                   | UI Designer             |
+| Rahul Mishra     | [@RahulMishra112](https://github.com/RahulMishra112)                   | Tester                  |
+| Ayush Gupta      | [@Ayush-Gupta-coder](https://github.com/Ayush-Gupta-coder)             | Documentation           |
+
+
+---
+
 ## 📃 License
 
 This project is open-source and available under the [MIT License](LICENSE).
